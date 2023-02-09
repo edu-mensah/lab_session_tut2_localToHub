@@ -5,3 +5,11 @@ project files and use them for individual development. However it's essential to
 master build that is usable on a server and runnable from other scripts. So on a Java
 project we're okay with having developers build in their IDE, but the master build uses
 Ant to ensure it can be run on the development server.
+
+Many of us use IDEs, and most IDEs have some kind of build management process
+within them. However these files are always proprietary to the IDE and often fragile.
+Furthermore they need the IDE to work. It's okay for IDE users set up their own
+project files and use them for individual development. However it's essential to have a
+master build that is usable on a server and runnable from other scripts. So on a Java
+project we're okay with having developers build in their IDE, but the master build uses
+Ant to ensure it can be run on the development server.

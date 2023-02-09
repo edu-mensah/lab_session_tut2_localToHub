@@ -1,0 +1,3 @@
+Many of us use IDEs, and most IDEs have some kind of build management process
+within them. However these files are always proprietary to the IDE and often fragile.
+Furthermore they need the IDE to work. 
